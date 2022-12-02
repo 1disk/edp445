@@ -1,6 +1,7 @@
 ![GitHub](https://img.shields.io/github/license/1disk/edp445?color=green)
 ![Matrix](https://img.shields.io/matrix/1disk-support:vern.cc)
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
+![GitHub forks](https://img.shields.io/github/forks/1disk/edp445?style=social)
 ![Uptime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fupptime%2Fupptime%2Fmaster%2Fapi%2Fgoogle%2Fuptime.json)
 
 # About
