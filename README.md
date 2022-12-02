@@ -4,6 +4,7 @@
 ![Uptime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fupptime%2Fupptime%2Fmaster%2Fapi%2Fgoogle%2Fuptime.json)
 
 ![GitHub forks](https://img.shields.io/github/forks/1disk/edp445?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/1disk/edp445?style=social)
 
 # About
 Bad AI made as a joke for a Discord bot. 
