@@ -16,7 +16,7 @@ module.exports = (msc, author) => {
     msc2 = msc2.replace(/ /g, '')
 
 
-    var replies = ['https://cdn.discordapp.com/attachments/1009456381071470724/1040330102979960903/acqzo_video_1651329243913_1.mp4', 'thank you', `i think you're ${msc2} too`, 'thanks!!', 'omg thank youu', '💕💕💕💕', 'tysm', 'you made my day', 'ily too', 'bro thanks', ':kiss:', `im not that ${msc2} 🫢`, `am i really ${msc2}?`, `i dont think im ${msc2}`]
+    var replies = ['https://cdn.discordapp.com/attachments/1009456381071470724/1040330102979960903/acqzo_video_1651329243913_1.mp4', 'thank you', `i think you're ${msc2} too`, 'thanks!!', 'omg thank youu', '💕💕💕💕', 'tysm', 'you made my day', 'ily too', 'bro thanks', ':kiss:', `im not that ${msc2} 🫢`, `am i really ${msc2}?`, `i dont think im ${msc2}`, 'Umm thanks i guess 😳😳😳😳']
     var reply = replies[Math.floor(Math.random() * replies.length)]
     var donejson = {
         detections:detections, 

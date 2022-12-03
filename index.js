@@ -2,18 +2,18 @@ const { Client, Intents, Collection, MessageEmbed, MessageActionRow, MessageButt
 const Discord = require('discord.js'); //v12.5.3
 require('discord-inline-reply'); //Import inline replies
 const client = new Client(); //New Discord client
-const botconfig = require('./data/botconfig.json') //Login info for the bot, you will have to provide your own info there
+const botconfig = process.env['TOKEN'] //Login info for the bot, you will have to provide your own info there
 
 client.on("ready", () => {
   console.log(`The bot is online!`)
 
-    client.user.setActivity(`${client.guilds.cache.size} servers • discord.gg/memee`, {
+    client.user.setActivity(`${client.guilds.cache.size} servers`, {
       type: "WATCHING"
     });
 });
 
 client.on("guildCreate", function(guild){
-    client.user.setActivity(`${client.guilds.cache.size} servers • discord.gg/memee`, {
+    client.user.setActivity(`${client.guilds.cache.size} servers`, {
         type: "WATCHING"
       });
 });
@@ -47,4 +47,4 @@ client.on("message", async (message) => {
     }
 });
 
-client.login(botconfig.token)
+client.login(botconfig)
