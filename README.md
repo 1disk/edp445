@@ -6,7 +6,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/1disk/edp445?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/1disk/edp445?style=social)
 
-[Add me!](https://discord.com/api/oauth2/authorize?client_id=1048187077147250718&permissions=274877983744&scope=bot}
+[Add me!](https://discord.com/api/oauth2/authorize?client_id=1048187077147250718&permissions=274877983744&scope=bot)
 
 # About
 Bad AI made as a joke for a Discord bot. 
