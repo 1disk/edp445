@@ -12,3 +12,5 @@ Bad AI made as a joke for a Discord bot.
 ## Contribution
 Contributions are always welcome!
 If you want to contribute for a new reply in 'detections' folder, it is recommended to do it by joining our [Matrix room](https://matrix.to/#/#1disk-support:vern.cc)
+
+We host this bot on [replit.com](https://replit.com/@1disk/edp445)
