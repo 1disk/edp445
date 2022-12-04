@@ -3,7 +3,7 @@ module.exports = (msc, author) => {
     var reply = 'bruhh i broke again nawhh'
 
     if(msc.includes('fuck me')){
-        reply = 'alr bet 🫢'
+        reply = 'alr bet 😏'
     } else if(msc.includes('😭')){
         reply = 'cry more nerd'
     } else if(msc.includes('bound')){

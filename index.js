@@ -2,6 +2,7 @@ const { Client, Intents, Collection, MessageEmbed, MessageActionRow, MessageButt
 const Discord = require('discord.js'); //v12.5.3
 require('discord-inline-reply'); //Import inline replies
 const client = new Client(); //New Discord client
+const keepAlive = require(`./server.js`);
 const botconfig = process.env['TOKEN'] //Login info for the bot, you will have to provide your own info there
 
 client.on("ready", () => {
@@ -48,3 +49,4 @@ client.on("message", async (message) => {
 });
 
 client.login(botconfig)
+keepAlive();
