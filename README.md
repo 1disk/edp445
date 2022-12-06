@@ -1,10 +1,7 @@
 ![GitHub](https://img.shields.io/github/license/1disk/edp445?color=green)
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
-<img src="https://img.shields.io/liberapay/receives/1disk.svg?logo=liberapay">
 ![Uptime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fupptime%2Fupptime%2Fmaster%2Fapi%2Fgoogle%2Fuptime.json)
-
-![GitHub watchers](https://img.shields.io/github/watchers/1disk/edp445?style=social)
-![GitHub forks](https://img.shields.io/github/forks/1disk/edp445?style=social)
+<img src="https://img.shields.io/liberapay/receives/1disk.svg?logo=liberapay">
 ![GitHub Repo stars](https://img.shields.io/github/stars/1disk/edp445?style=social)
 
 [Add me!](https://discord.com/api/oauth2/authorize?client_id=1048187077147250718&permissions=274877983744&scope=bot)
